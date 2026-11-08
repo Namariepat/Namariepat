@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Patrycja
 
-<!--
-**Namariepat/Namariepat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PCB designer working in R&D in Italy.
+I design boards in Altium and write firmware in C.
 
-Here are some ideas to get you started:
+## Current project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Snackinator2000](https://github.com/Namariepat/Snackinator2000)**
+An automatic snack dispenser for my two pet degus.
+Each running wheel counts laps. When a degu reaches its running target,
+the device drops a snack next to that wheel.
+
+Status: lap counting and data upload work. The dispenser is designed, not built yet.
+
+## Tools I use
+
+- **PCB design:** Altium
+- **Firmware:** C, STM32 (HAL), ESP32 (ESP-IDF)
+- **Protocols:** UART, MQTT
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/patrycja-edyta-zapotoczna-31290b448/)
